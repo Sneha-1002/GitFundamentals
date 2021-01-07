@@ -1,3 +1,5 @@
 /logs/*txt
 *.log
 /logs
+*.txt.un~
+*.txt~
